@@ -1,7 +1,8 @@
-package com.example.okelloSoftwarez.dinnerdecider
+package com.okelloSoftwarez.dinnerdecider
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.okelloSoftwarez.dinnerdecider.R
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
 
